@@ -21,4 +21,5 @@ npm run lint
 ```
 
 ### Customize configuration
+Disable CORS on your browser.
 See [Configuration Reference](https://cli.vuejs.org/config/).
